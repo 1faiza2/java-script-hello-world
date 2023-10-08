@@ -1,0 +1,1 @@
+console.log("java script es6 hello world")
